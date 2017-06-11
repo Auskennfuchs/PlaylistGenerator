@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs/PlaylistGenerator/v14
+/_UpgradeReport_Files
+/PlaylistGenerator/obj
+/PlaylistGenerator/bin/Debug/PlaylistGenerator.vshost.exe.manifest
+/PlaylistGenerator/bin/Debug/PlaylistGenerator.vshost.exe
+/PlaylistGenerator/bin/Debug/PlaylistGenerator.pdb
+/PlaylistGenerator/bin/Release/PlaylistGenerator.vshost.exe.manifest
+/PlaylistGenerator/bin/Release/PlaylistGenerator.vshost.exe
+/PlaylistGenerator/bin/Release/PlaylistGenerator.pdb
